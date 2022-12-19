@@ -6,7 +6,7 @@ Survival Analysis Workshop at Seoul Medical Center
 * Time: 12:30 - 1:30 PM
 * Instructor: Jooyoung Lee
 
-Schedule
+### Schedule
 
 * 2023/01/06 (Week 1): Introduction to Survival Analysis
 
