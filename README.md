@@ -1,6 +1,6 @@
 # Survival Analysis Workshop in 2023
 
-Survival Analysis Workshop at Seoul Medical Center
+### Survival Analysis Workshop at Seoul Medical Center
 
 * Date: Janauary 6, 13, 20, 27 in 2023
 * Time: 12:30 - 1:30 PM
